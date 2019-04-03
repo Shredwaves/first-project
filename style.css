@@ -1,0 +1,26 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  background: url(LandingStock_image_26.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+h1 {
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
+	font-size: 18px;
+	font-weight: 600;
+	margin-right: 10px;
+}
+h2 {
+	position: absolute;
+	bottom: 100px;
+	right: 150px;
+}
